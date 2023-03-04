@@ -1,9 +1,9 @@
 ### Hello there 👋
 
-- 🔭 I’m currently developing applications using Go, C++, React, JavaScript, TypeScript and NodeJS.
-- 🔭 I'm also have experience developing embedded systems hardware and software using C, C++ and Python.
-- 👯 I’m looking to collaborate on projects relating to web developement, web3, embedded systems, IoT and robotics.
-- 💬 Ask me about web development and embedded systems.
+- 🔭 I’m a software engineer currently building systems using C++, Go and Python.
+- 🔭 I have experience in backend web development, Internet of Things and robotics development using Go, Python, C and C++.
+- 👯 I’m looking to collaborate on projects relating to systems development, IoT and robotics.
+- 💬 Ask me about systems development, IoT and robotics.
 - 📫 How to reach me: email: denis-mutuma@outlook.com
 <!-- 🌱 I’m currently learning...-->
 <!--
