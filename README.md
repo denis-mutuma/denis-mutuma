@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 - 🔭 I’m a software engineer currently building systems using C++, Go and Python.
-- 🔭 I have experience in backend web development, Internet of Things and robotics development using Go, Python, C and C++.
+- 🔭 I have experience in backend web development, Internet of Things and robotics using Go, Python, C and C++.
 - 👯 I’m looking to collaborate on projects relating to systems development, IoT and robotics.
 - 💬 Ask me about systems development, IoT and robotics.
 - 📫 How to reach me: email: denis-mutuma@outlook.com
