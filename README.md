@@ -5,4 +5,5 @@
 - 💬 Ask me about embedded systems, IoT and robotics.
 
 
-[comment]: (- 📫 How to reach me: email: denis-mutuma@outlook.com)
+
+[comment]: <> (- 📫 How to reach me: email: denis-mutuma@outlook.com)
