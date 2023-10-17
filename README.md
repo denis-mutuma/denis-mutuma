@@ -1,7 +1,6 @@
 ### Hello there 👋
 
-- 🔭 I’m software engineer currently designing and developing desktop applications and embedded systems using C, C++ and Python.
-- 👯 I’m looking to collaborate on projects relating to desktop applications, embedded systems, IoT and robotics.
+- 🔭 I’m an embedded software engineer currently involved in the design and development of embedded applications using C, C++ and Python.
+- 👯 I’m looking to collaborate on projects relating to embedded systems, IoT, AR/VR and robotics.
 
-
-[comment]: <> (- 📫 How to reach me: email: denis-mutuma@outlook.com)
+- How to reach me: email: mutuma212@gmail.com
